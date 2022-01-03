@@ -5,3 +5,71 @@
 width: 100%;
 height: 100%;
 }
+
+.page{
+    width : 500px;
+    margin : 5px;
+    border : 1px solid black;
+    background-color: cadetblue;
+}
+.page-header{
+    background-color: turquoise;
+    border : 1px solid black;
+    margin : 5px;
+    height: 60px;
+
+}
+img{
+    padding: 5px;
+    float: left;
+}
+form{
+    padding: 5px;
+    float: right;
+}
+ul li{
+    list-style: none;
+}
+
+nav{
+    background-color: bisque;
+    border:1px solid black;
+    margin: 5px;
+    padding: 5px;
+    
+}
+ nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.left-sidebar{
+    display: inline-block;
+    margin : 2px;
+    border : 1px solid black;
+    width : 22%;
+    background-color: blanchedalmond;
+    align-content: top;
+}
+sector{
+    width: 50%;   
+    display: block;
+    border: 1px solid black;
+}
+sector,.images{
+    display: block;
+    
+}
+.left-sidebar,sector{
+    display: inline-block;
+}
+.post-img{
+    height: 100px;
+    width: 25%;   
+}
+footer{
+    border: 1px solid black;
+    margin: 5px;
+    background-color: gray;
+}
+
+
