@@ -36,7 +36,7 @@ nav{
     border:1px solid black;
     margin: 5px;
     padding: 5px;
-    
+
 }
  nav ul li{
     display: inline-block;
@@ -44,7 +44,8 @@ nav{
 }
 .left-sidebar{
     display: inline-block;
-    margin : 2px;
+    
+    margin-top: -1000px;
     border : 1px solid black;
     width : 22%;
     background-color: blanchedalmond;
@@ -57,7 +58,7 @@ sector{
 }
 sector,.images{
     display: block;
-    
+
 }
 .left-sidebar,sector{
     display: inline-block;
