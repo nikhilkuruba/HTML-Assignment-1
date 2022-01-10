@@ -14,11 +14,9 @@ header {
     height:50px;
     padding:0 25px;
 }
-header h1 {
+header h1{
     float: left;
     text-indent: -9999px;
-}
-header h1{
     background: url('images/image4.png') no-repeat;
     background-size: cover;
     border-radius: 50%;
